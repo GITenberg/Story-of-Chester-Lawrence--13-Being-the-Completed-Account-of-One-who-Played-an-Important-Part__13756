@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4501
     wikipedia: http://en.wikipedia.org/wiki/Nephi_Anderson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13756#Story-of-Chester-Lawrence--13-Being-the-Completed-Account-of-One-who-Played-an-Important-Part_
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2004-10-15'
 gutenberg_type: Text
